@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Google-Shopping OpsKit
-> Find out everything you need to know to reliably scrape Google-Shopping with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google-shopping)
+> Find out everything you need to know to reliably scrape Google-Shopping with our new tool: [Ops Kit](https://scrapeops.io/websites/google-shopping)
 
 This kit provides the blueprint for Google-Shopping scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -137,7 +137,7 @@ This kit provides the blueprint for Google-Shopping scraping operations:
 ---
 
 ## 🧠 Google-Shopping Tutorials & How-Tos<a id="google-shopping-tutorials"></a>
-- 📘 [How to Scrape Google-Shopping at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google-shopping/)
+- 📘 [How to Scrape Google-Shopping at Scale](https://scrapeops.io/websites/google-shopping/how-to-scrape-google-shopping)
 - 🔐 [Web Scraping Google-Shopping Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
